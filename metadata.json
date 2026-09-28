@@ -1,0 +1,6 @@
+{
+  "name": "CTI HSK HRMS - Hệ thống Quản lý Nhân lực & Lương Tự động",
+  "description": "Hệ thống quản trị nhân sự, 18 danh mục chuẩn, phân quyền RBAC, chấm công và tính lương tự động cho Hệ thống Trung tâm CTI HSK tích hợp xuất cơ sở dữ liệu MySQL & PHP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
